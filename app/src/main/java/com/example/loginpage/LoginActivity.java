@@ -18,8 +18,6 @@ public class LoginActivity extends AppCompatActivity {
 
     String username = "";
     String password = "";
-    String defaultUsername = "";
-    String defaultPassword = "";
     private EditText mUserName;
     private EditText mPassWord;
     private Button mLoginButton;
